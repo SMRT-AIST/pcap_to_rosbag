@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>pcap_to_rosbag</name>
+  <version>0.0.0</version>
+  <description>The pasco_to_rosbag package</description>
+
+  <maintainer email="k.koide@aist.go.jp">k.koide</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rosbag</depend>
+  <depend>velodyne_pointcloud</depend>
+
+
+  <export>
+  </export>
+</package>
